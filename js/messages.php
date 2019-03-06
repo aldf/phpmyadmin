@@ -999,4 +999,5 @@ Sanitize::printJsValueForFormValidation(
 );
 echo "\n});";
 echo "\n} /* if ($.validator) */";
+exit;
 ?>
